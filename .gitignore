@@ -3,3 +3,5 @@ venv/
 .env
 chroma/
 chroma_*
+
+Here is a step-by-step tutorial video: [RAG+Langchain Python Project: Easy AI/Chat For Your Docs](https://www.youtube.com/watch?v=tcqEUSNCn8I&ab_channel=pixegami)
